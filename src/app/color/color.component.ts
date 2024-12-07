@@ -12,5 +12,9 @@ export class ColorComponent {
 
   color ='red';
 
+  processReq(message: any){
+    alert(message);
+  }
+
 
 }
