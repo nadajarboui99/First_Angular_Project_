@@ -3,9 +3,7 @@ export class Personne {
     name : any;
     firstname: any;
     age: any;
-    path: any;
-    cin: any;
-    job: any;
+    
 
 }
 
